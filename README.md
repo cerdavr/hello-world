@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just another repository
+just trying to figure out how github works 
